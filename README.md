@@ -1,6 +1,6 @@
 # todo_list
 
-A new Flutter project.
+Flutter todo list app using hive to store data.
 
 ## Getting Started
 
