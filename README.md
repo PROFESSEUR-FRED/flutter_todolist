@@ -1,6 +1,7 @@
 # todo_list
 
 Flutter todo list app using hive to store data.
+You can run with flutter run todo_list
 
 ## Getting Started
 
